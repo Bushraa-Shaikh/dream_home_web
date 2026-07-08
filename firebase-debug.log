@@ -1,0 +1,11 @@
+[debug] [2026-07-08T17:35:49.067Z] ----------------------------------------------------------------------
+[debug] [2026-07-08T17:35:49.070Z] Command:       D:\nodejs\node.exe C:\Users\Bushra Shaikh\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy --only hosting --debug
+[debug] [2026-07-08T17:35:49.070Z] CLI Version:   15.22.4
+[debug] [2026-07-08T17:35:49.071Z] Platform:      win32
+[debug] [2026-07-08T17:35:49.071Z] Node Version:  v24.13.0
+[debug] [2026-07-08T17:35:49.071Z] Detected Agent: unknown
+[debug] [2026-07-08T17:35:49.071Z] Time:          Wed Jul 08 2026 22:35:49 GMT+0500 (Pakistan Standard Time)
+[debug] [2026-07-08T17:35:49.071Z] ----------------------------------------------------------------------
+[debug] 
+[error] 
+[error] Error: Cannot understand what targets to deploy/serve. No targets in firebase.json match '--only hosting'. If you are using PowerShell make sure you place quotes around any comma-separated lists (ex: --only "functions,firestore").
